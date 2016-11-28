@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: Qpid Broker
   description: Apache Qpid is an open-source messaging system, implementing the Advanced Message Queuing Protocol (AMQP)
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/commons/5/5b/Qpid-logo.png
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
